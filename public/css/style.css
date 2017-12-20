@@ -11,6 +11,9 @@ h1 {
   text-shadow: 0 9px #b13b2f;
 
 }
+a {
+  text-decoration: none;
+}
 
 #theButton {
   display: inline-block;
