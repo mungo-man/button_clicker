@@ -1,0 +1,36 @@
+body {
+  background-color: #ff5949;
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+  text-align: center;
+}
+h1 {
+  font-family: 'Bungee', sans-serif;
+  font-size: 60px;
+  background-color: #df4c3d;
+  text-shadow: 0 9px #b13b2f;
+
+}
+
+#theButton {
+  display: inline-block;
+  width: 500px;
+  border: 0px;
+  padding: 15px;
+  font-size: 30px;
+  color: white;
+  background-color: #df4c3d;
+  box-shadow: 0 9px #b13b2f;
+}
+#theButton:hover{background-color: #c14134}
+#theButton:active {
+  transform: translateY(4px);
+  box-shadow: 0 5px #b13b2f;
+}
+
+#level {
+  font-family: 'Bungee', sans-serif;
+  font-size: 50px;
+  padding-top: 15px;
+  text-shadow: 0 3px #df4c3d;
+}
