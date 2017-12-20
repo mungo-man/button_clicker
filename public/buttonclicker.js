@@ -11,5 +11,5 @@ function buttonClick() {
    level++;
    document.getElementById("level").innerHTML = "LEVEL: " + level;
    document.getElementById("theButton").innerHTML = val;
-  }
+   }
 }
