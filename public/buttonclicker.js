@@ -1,7 +1,7 @@
 level = 0;
 mul = 4;
 val = mul;
-function onClick() {
+function buttonClick() {
  if(val > 1) {
    val--;
    document.getElementById("theButton").innerHTML = val;
