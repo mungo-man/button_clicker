@@ -5,7 +5,7 @@ function buttonClick() {
  if(val > 1) {
    val--;
    document.getElementById("theButton").innerHTML = val;
-} else {
+ } else {
    mul += mul;
    val = mul;
    level++;
